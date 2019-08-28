@@ -26,9 +26,9 @@ defmodule Wine.MixProject do
 		{:plug_cowboy, "~> 2.1"},
 		{:phoenix_html, "~> 2.13"},
 		{:ecto, "~> 3.1"},
-		{:absinthe, "~> 1.4"},
-		{:absinthe_plug, "~> 1.4"},
-		{:absinthe_relay, "~> 1.4"}
+		{:absinthe, "~> 1.5.0-beta.0"},
+		{:absinthe_plug, "~> 1.5.0-alpha.0"},
+		{:absinthe_relay, "~> 1.5.0-beta.0"}
 	  ]
 	end
   end
